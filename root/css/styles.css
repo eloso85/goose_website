@@ -1,0 +1,22 @@
+.nav_custom_big a{
+    font-family: Suisseintl, sans-serif;
+    font-size: 4vw;
+    line-height: 4vw;
+    font-weight: 400;
+    letter-spacing: -1px;
+    text-decoration: none;
+    text-transform: none;
+}
+
+.nav_custom_big{
+    border-bottom: 1px solid black;
+}
+
+.name_header{
+    margin-bottom: 0px;
+    font-family: Suisseintl, sans-serif;
+    
+    font-size: 10vw;
+    line-height: 12vw;
+    letter-spacing: -10px;
+}
